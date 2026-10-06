@@ -1,0 +1,8 @@
+# written by the slides lab wizard — read at lab creation
+stack: empty
+database: false
+ci: false
+docker: false
+hosted: false
+# run: <command that starts the app>   (used by the grading sandbox)
+# port: <port it listens on>
